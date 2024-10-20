@@ -7,15 +7,18 @@ Predicting and Simulating Temporal Data
 This repository contains a collection of Jupyter notebooks focused on applying statistical and machine learning methods to data with temporal dependencies. The examples demonstrate both theoretical concepts and practical approaches for analyzing time-dependent data.
 Contents
 
-    ex_solution4.ipynb: Demonstrates [specific method or topic] for predicting temporal data.
-    ex_solution5-NER.ipynb: Focuses on Named Entity Recognition (NER) with temporal analysis.
+    HMM_Viterbi_Algorithm.ipynb: Demonstrates how the Hidden Markov Model(HMM) works theoretically for predicting temporal data.
+    Generate_Data_with_an_HMM.ipynb: Simple weather prediction example by using HMM
+    Named_Entity_Recognition.ipynb: NER is a Natural Language Processing (NLP) task that consists in identifying and classifying names of entities 
+    CRF_model.ipynb: Averaged perceptron usage(Conditional Random Field) example for the NER problem to get better convergence
+
 
 Topics Covered:
 
-    Time-series forecasting
-    Temporal data simulation
-    Statistical modeling
-    Machine learning for time-dependent data
+    HMM, Viterbi Algo, Forward-Backward Algo
+    NER
+    CRF (check for more on this medium article: https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c)
+    
 
 How to Use:
 
