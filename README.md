@@ -17,7 +17,8 @@ Topics Covered:
 
     HMM, Viterbi Algo, Forward-Backward Algo
     NER
-    CRF (check for more on this medium article: https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c)
+    CRF 
+(Check for more detailed explanations on this [medium article] (https://medium.com/data-science-in-your-pocket/named-entity-recognition-ner-using-conditional-random-fields-in-nlp-3660df22e95c)
     
 
 How to Use:
